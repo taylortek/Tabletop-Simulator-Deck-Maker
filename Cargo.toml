@@ -1,0 +1,13 @@
+[package]
+name = "tts_deck_editor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dialog = "0.3.0"
+image = "0.25.10"
+rfd = "0.17.2"
+
+[target.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
+ar = "x86_64-w64-mingw32-ar"

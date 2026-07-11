@@ -9,7 +9,7 @@ I made this very simple project to kill two birds with one stone.
 I accomplished both of those goals, and I hope someone out there finds this useful in some way.
 
 # Using the program
-You're probably going to want to use the precompiled binary for windows, but if you really want to compile it then you absolutely can!
+You're probably going to want to use the precompiled binary for windows (check the releases), but if you really want to compile it then you absolutely can!
 
 ## Steps
 1. Double click the exe
